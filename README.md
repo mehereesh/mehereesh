@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chintamakula Mehereesh</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/search?sca_esv=514d789ccece10d1&rlz=1C1CHBF_en-GBIN1110IN1110&q=Free+coding+animated+gif&uds=ADvngMgMuv1_mIpYdt1PDfdD_k6FiFzGazLV5OciTyUmiM5QTHahiObaEUoHnEDRxUzL7npkeu9MxwDauoh6sMov5zQbaazSlm5iXQhOzHdLKXdaTjbp52sTdZECGrlfi2vKTK32Ur2Oyfrwsaf20CyBu18eTm-DmTxGebdtuAx4sCq9voUxyttLs7dkEuU75FtcSLwErA_m2i4E_O1OyEtHip3be9I5_4ZKLSGybReMB3rp1NJhoWJYOsOpzgFGSEpL7amub_zZWuZ6HMflsRwhFBiF5itVzHZlmYF_KKhEk8gSRQ1NDcxQJyVZGT-9pOLmV-eLNjw-2Lf4BRnPyBv3kEIIXzinFQ&udm=2&prmd=ivsnbmtz&sa=X&ved=2ahUKEwi-rqj3uKOGAxUrsVYBHXnxAcAQtKgLegQIDxAB&biw=768&bih=746&dpr=1.25#vhid=bm-5ttG2JLMj3M&vssid=mosaic">
 
 
 
 
-- 👨‍💻 All of my projects are available at [https://mehereesh2.wixsite.com/meher-protfolio](https://mehereesh2.wixsite.com/meher-protfolio)
+
+- 👨‍💻 All about me available [https://mehereesh2.wixsite.com/meher-protfolio](https://mehereesh2.wixsite.com/meher-protfolio)
 
 
 
