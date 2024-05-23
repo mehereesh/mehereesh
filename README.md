@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mehereesh/count.svg?"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Chintamakula Mehereesh</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -26,10 +30,18 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chintamakula-mehereesh-009b9822b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chintamakula-mehereesh-009b9822b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/chintamakula-mehereesh-009b9822b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehereesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehereesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 <h2 align="left">Technical skills</h2>
@@ -61,11 +73,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehereesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehereesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
