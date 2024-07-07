@@ -34,7 +34,9 @@
   <a href="https://www.linkedin.com/in/chintamakula-mehereesh-009b9822b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
+  <a href="mailto:mehereesh2@gmail.com" target="_blank">
+    <i class="far fa-envelope"></i>
+</div> 
 
 </p>
 
