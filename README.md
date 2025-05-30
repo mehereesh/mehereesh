@@ -30,15 +30,16 @@
 
 ### 🚀 Technical Skills
 
-###🧑‍💻 Languages
+### 🧑‍💻 Languages
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" /> </p>
-###🧱 Frameworks
+### Frameworks
+
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" /> </p>
-###🛠 Tools
+🛠 **Tools**
 <p>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"  width="40" alt="AWS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" /> <img src="https://img.shields.io/badge/WIX-000000?style=for-the-badge&logo=wix&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Onshape-1B5FAA?style=for-the-badge&logo=Onshape&logoColor=white" height="30" /> </p>
-###🧠 Technologies
+**🧠 Technologies**
 <p> <img src="https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Artificial%20Intelligence-272727?style=for-the-badge&logo=OpenAI&logoColor=white" height="30" /> <img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge&logo=openai&logoColor=white" height="30" /> </p>
-###🎨 Other
+**🎨 Other**
 <p> <img src="https://img.shields.io/badge/Poster%20Designing-E91E63?style=for-the-badge&logo=canva&logoColor=white" height="30" /> </p>
 ---
 
