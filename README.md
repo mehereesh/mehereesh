@@ -1,6 +1,6 @@
 <h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <span>Hi 👋, I'm Chintamakula Mehereesh</span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxiaGVwczA3Nm05MzhhaDdha2Nqd3F0dHlwd3RyM3FxaTM2cDNuNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/noyBeNjH4nbtXV5ZLA/giphy.gif" alt="Hi GIF" width="60" style="border-radius: 50%;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxiaGVwczA3Nm05MzhhaDdha2Nqd3F0dHlwd3RyM3FxaTM2cDNuNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/noyBeNjH4nbtXV5ZLA/giphy.gif" alt="Hi GIF" width="100" style="border-radius: 50%;" />
 </h1>
 
 <h3 align="center">A passionate Full Stack & AI Developer from India 🇮🇳</h3>
