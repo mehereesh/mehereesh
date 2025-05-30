@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chintamakula Mehereesh</h1>
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <span>Hi 👋, I'm Chintamakula Mehereesh</span>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxiaGVwczA3Nm05MzhhaDdha2Nqd3F0dHlwd3RyM3FxaTM2cDNuNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/noyBeNjH4nbtXV5ZLA/giphy.gif" alt="Hi GIF" width="60" style="border-radius: 50%;" />
+</h1>
+
 <h3 align="center">A passionate Full Stack & AI Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -19,26 +23,65 @@
 
 ---
 
-### 🚀 Languages & Tools
+### 🚀 Technical Skills
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
+  <!-- Languages -->
+  <b>Languages:</b> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" title="Basic Java" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- Frameworks -->
+  <b>Frameworks:</b> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="28" title="Flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="28" title="Bootstrap" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- Tools -->
+  <b>Tools:</b> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="28" title="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wix/wix-original.svg" width="28" title="WIX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="28" title="Adobe Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" width="28" title="Onshape" />
+  &nbsp;&nbsp;&nbsp;
+  <!-- Technologies -->
+  <b>Technologies:</b> &nbsp; Machine Learning (ML), Artificial Intelligence (AI), Prompt Engineering
+  &nbsp;&nbsp;&nbsp;
+  <!-- Others -->
+  <b>Other:</b> &nbsp; Poster Designing
 </p>
+
+---
+
+### 📁 Projects
+
+<details>
+  <summary><b>Real-Time Voice Command and Control System</b></summary>
+
+  - Developed a system with **Flask backend** and **Web Speech API frontend** for real-time voice interactions.  
+  - Achieved **92% command accuracy** and **1.2s average response time**.  
+  - Built with **HTML, CSS** for UI and integrated **Python command processing**.  
+  - Implemented robust error handling and continuous recognition.
+</details>
+
+<details>
+  <summary><b>Emotion-Based Music Recommendation System</b></summary>
+
+  - Built an AI system detecting user emotions via voice and suggesting music therapy.  
+  - Used **MFCC features** and a classification model with a real-time feedback loop.  
+  - Implemented an interactive UI using Flask and Python.
+</details>
+
+<details>
+  <summary><b>Parkinson’s Disease Detection Using Speech Analysis</b></summary>
+
+  - Built an ML model using **Random Forest** to detect symptoms from voice data.  
+  - Extracted **MFCC, pitch, and jitter** features from biomedical datasets.  
+  - Integrated the system into a mobile-friendly web interface.
+</details>
 
 ---
 
