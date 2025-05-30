@@ -1,4 +1,9 @@
 <h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mehereesh/count.svg?" />
+</p>
+  <br>
+  <br>
   <span>Hi 👋, I'm Chintamakula Mehereesh</span>
   <br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxiaGVwczA3Nm05MzhhaDdha2Nqd3F0dHlwd3RyM3FxaTM2cDNuNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/noyBeNjH4nbtXV5ZLA/giphy.gif" alt="Hi GIF" width="200" style="border-radius: 50%;" />
@@ -116,10 +121,3 @@
   <a href="https://codepen.io/Meher2901" target="_blank"><img src="https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" /></a>
 </p>
 
----
-
-### 👥 Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mehereesh/count.svg?" />
-</p>
