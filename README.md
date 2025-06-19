@@ -11,7 +11,7 @@
 <h3 align="center">A passionate Full Stack & AI Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AFFB8&center=true&vCenter=true&width=435&lines=Web+Developer;AI+%2F+ML+Engineer;Python+%7C+PHP+%7C+Flask+Expert;Passionate+about+Building+Smart+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0AFFB8&center=true&vCenter=true&width=435&lines=Web+Developer;AI+%2F+ML+Engineer;Python+%7C+%7C+Flask+Expert;Passionate+about+Building+Smart+Apps" alt="Typing SVG" />
 </p>
 
 ---
